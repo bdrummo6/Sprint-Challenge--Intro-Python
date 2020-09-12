@@ -24,8 +24,8 @@ Complete the programs in the `src/` directory in any order.
     - [X] `oop2.py`: subclassing and method overriding
 - [X] `comp/`
     - [X] `comp.py`: list comprehensions
-- [ ] `cityreader/`
-    - [ ] `cityreader.py`: modules and CSV file reading
+- [X] `cityreader/`
+    - [X] `cityreader.py`: modules and CSV file reading
 
 ## Testing
 
